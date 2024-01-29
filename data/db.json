@@ -1,0 +1,57 @@
+{
+  "mentors": [
+    {
+      "id": 1,
+      "firstName": "Vinay",
+      "lastName": "Chudasama",
+      "emailId": "vinaychudasama@1rivet.com",
+      "domain": "Frontend"
+    },
+    {
+      "id": 2,
+      "firstName": "Bhavik",
+      "lastName": "Gajdhar",
+      "emailId": "bhavikgajdhar@1rivet.com",
+      "domain": "Frontend"
+    },
+    {
+      "id": 3,
+      "firstName": "Vishwani",
+      "lastName": "Patel",
+      "emailId": "vishwani@1rivet.com",
+      "domain": "Frontend"
+    },
+    {
+      "id": "d62f",
+      "firstName": "Jinal",
+      "lastName": "Tandel",
+      "emailId": "jinaltandel@1rivet.com",
+      "domain": "Frontend"
+    },
+    {
+      "id": "9002",
+      "firstName": "Ravi",
+      "lastName": "Sing",
+      "emailId": "ravising@1rivet.com",
+      "domain": "Frontend"
+    }
+  ],
+  "domain": [
+    {
+      "id": 1,
+      "name": "Frontend"
+    },
+    {
+      "id": 2,
+      "name": "Backend"
+    },
+    {
+      "id": 3,
+      "name": "Data"
+    },
+    {
+      "id": 4,
+      "name": "QA"
+    }
+  ]
+}
