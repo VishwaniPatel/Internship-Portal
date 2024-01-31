@@ -14,3 +14,18 @@ export const addMentor = async (mentor) =>{
     const url = baseUrl + "mentors";
     return await axios.post(url, mentor);
 }
+
+export const deleteMentorData = async (id) => {
+  const url = baseUrl + "mentors/" + id ;
+  return await axios.delete(url);
+};
+
+export const getMentorById = async (id) => {
+  const url = baseUrl + "mentors/" + id ;
+  return await axios.get(url);
+}
+
+export const updateMentor = async (id,mentor) =>{
+  const url = baseUrl + "mentors/" + id;
+  return await axios.put(url, mentor);
+}
